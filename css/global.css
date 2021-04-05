@@ -1,0 +1,6 @@
+.head{
+    width: calc(100% - 100px);
+}
+.madiv{
+    color: red;
+}
